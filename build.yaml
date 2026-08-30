@@ -22,6 +22,6 @@ include:
   - board: nice_nano_v2
     shield: lily58_left
   - board: nice_nano_v2
-    shield: lily58_rightx
+    shield: lily58_right
   - board: xiao_ble//zmk
     shield: lily58_dongle prospector_adapter
